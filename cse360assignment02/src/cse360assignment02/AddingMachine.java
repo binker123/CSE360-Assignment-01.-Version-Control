@@ -1,3 +1,7 @@
+// Name: Binbin Yang
+// ASU ID: 1215040268
+// ASU Email Address: byang52@asu.edu
+// Url: https://github.com/thatdexterr/CSE360-Assignment-01.-Version-Control
 package cse360assignment02;
 
 public class AddingMachine {
